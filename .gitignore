@@ -1,0 +1,11 @@
+.Python
+bin
+lib
+include
+venv
+
+*.jpg
+*.psd
+static/pattern.png
+
+.DS_Store
